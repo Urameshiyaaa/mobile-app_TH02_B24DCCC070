@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Quản lý chi tiêu</string>
+
+    <!-- Màn hình đăng nhập -->
+    <string name="login_title">Quản lý chi tiêu</string>
+    <string name="login_subtitle">Đăng nhập để tiếp tục</string>
+    <string name="login_username_hint">Tên đăng nhập</string>
+    <string name="login_password_hint">Mật khẩu</string>
+    <string name="login_button">Đăng nhập</string>
+    <string name="login_demo_account">Tài khoản mẫu: admin / 123456</string>
+    <string name="login_error_empty">Vui lòng nhập tên đăng nhập và mật khẩu</string>
+    <string name="login_error_wrong">Sai tên đăng nhập hoặc mật khẩu</string>
+
+    <!-- Màn hình danh sách chi tiêu -->
+    <string name="main_total_label">Tổng số tiền đã chi</string>
+    <string name="main_list_title">Danh sách khoản chi</string>
+    <string name="main_empty">Chưa có khoản chi nào</string>
+    <string name="main_add_button">+ Thêm khoản chi</string>
+
+    <!-- Màn hình thêm khoản chi -->
+    <string name="add_title">Thêm khoản chi</string>
+    <string name="add_name_hint">Tên khoản chi (ví dụ: Ăn trưa)</string>
+    <string name="add_amount_hint">Số tiền (chỉ nhập số)</string>
+    <string name="add_category_label">Danh mục</string>
+    <string name="add_date_label">Ngày chi tiêu</string>
+    <string name="add_note_hint">Ghi chú (không bắt buộc)</string>
+    <string name="add_save_button">Lưu khoản chi</string>
+    <string name="add_error_name">Vui lòng nhập tên khoản chi</string>
+    <string name="add_error_amount">Số tiền phải là số lớn hơn 0</string>
+
+    <!-- Màn hình chi tiết khoản chi -->
+    <string name="detail_title">Chi tiết khoản chi</string>
+    <string name="detail_note_label">Ghi chú</string>
+    <string name="detail_no_note">Không có ghi chú</string>
+    <string name="detail_back_button">Quay lại</string>
+    <string name="detail_delete_button">Xóa khoản chi</string>
+
+    <!-- Danh sách danh mục chi tiêu cho Spinner -->
+    <string-array name="categories">
+        <item>Ăn uống</item>
+        <item>Đi lại</item>
+        <item>Học tập</item>
+        <item>Giải trí</item>
+        <item>Khác</item>
+    </string-array>
+</resources>

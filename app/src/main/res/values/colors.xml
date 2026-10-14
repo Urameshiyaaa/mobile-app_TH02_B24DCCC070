@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Tone màu đỏ chủ đạo của ứng dụng -->
+    <color name="red_primary">#D32F2F</color>
+    <color name="red_dark">#B71C1C</color>
+    <color name="red_light">#FFEBEE</color>
+
+    <!-- Màu nền và chữ -->
+    <color name="background">#FAFAFA</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+</resources>
